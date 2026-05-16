@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 
-type EpisodeCategory = "RP" | "Actionn" | "Drama" | "RPMarrant" | "Marvel";
+type EpisodeCategory = "RP" | "Action" | "Drama" | "RPMarrant" | "Marvel";
 type SponsorStatus = "active" | "finished" | "upcoming";
 
 type Episode = {
@@ -45,7 +45,7 @@ type BookChapter = {
 
 const episodes: Episode[] = [
   {
-    title: "Épisode RP #1",
+    title: "Épisode RP good #1",
     videoId: "0ka_Zr6zN3Q",
     description: "Découvre le premier épisode de mon univers RP.",
     category: "RP",
