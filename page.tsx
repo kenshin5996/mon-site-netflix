@@ -45,7 +45,7 @@ type BookChapter = {
 
 const episodes: Episode[] = [
   {
-    title: "Épisode RP good #1",
+    title: "Épisode RP #1",
     videoId: "0ka_Zr6zN3Q",
     description: "Découvre le premier épisode de mon univers RP.",
     category: "RP",
@@ -172,7 +172,7 @@ const episodes: Episode[] = [
     category: "Marvel",
   },
   {
-    title: "Spider-Man : Le héros que New York attendait ! #4",
+    title: "Spider-Man : Le héros que New York attendait cc ! #4",
     videoId: "ovZmIoHxFOA",
     description: "Spider-Man prend sa place comme héros de la ville.",
     category: "Marvel",
