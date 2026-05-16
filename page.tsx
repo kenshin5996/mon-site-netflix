@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 
-type EpisodeCategory = "RP" | "Action" | "Drama" | "RPMarrant" | "Marvel";
+type EpisodeCategory = "RP" | "Actionn" | "Drama" | "RPMarrant" | "Marvel";
 type SponsorStatus = "active" | "finished" | "upcoming";
 
 type Episode = {
